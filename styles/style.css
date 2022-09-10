@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.slide-title{
+    color: black;
+    font-size: 72px;
+    text-align: center;
+}
+.slide-description{
+    margin: 42px auto 0;
+    padding: 0 24px;
+    max-width: 500px;
+    display: block!important;
+    line-height: 24px;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-align: center;
+    clear: both;
+    color: #aaaaaa;
+}
